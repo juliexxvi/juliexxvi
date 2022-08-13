@@ -6,4 +6,4 @@
 - 🌱 I’m teaching myself NodeJS and web development
 - 💻 I have some small projects in my public repositories, let's check it out
 - 🥅 2022 Goal: Get my very first job as a software developer 🙏
-- ⚡ Fun fact: I'm currently working as an accountant, however, I am passionate about software development so I've been spending a lot of time teaching myself programming skills. Also, I'm proud to be a student of General Assembly 😁
+- ⚡ Fun fact: I'm currently working as an accountant, however, I am passionate about software development so I've been spending a lot of time teaching myself programming skills. Also, I'm proud to be an apprentice software developer of General Assembly 😁
